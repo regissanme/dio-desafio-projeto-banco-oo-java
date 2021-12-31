@@ -1,8 +1,7 @@
 # Criando um Banco Digital com Java e Orientação a Objetos
 
-------------    
 ## 31/12/2021 - Desafio de Projeto do Bootcamp Cognizant Java Developer  
-(#teamJavaCog)
+#teamJavaCog
 
 ⚠️ Não estou disponibilizando o link direto para o desafio, pois o mesmo faz parte da trilha de alguns Bootcamps. Logo, você terá que se matricular no Bootcamp para ter acesso ao curso.⚠️
 
