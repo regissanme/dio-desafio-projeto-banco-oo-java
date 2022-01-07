@@ -35,7 +35,7 @@ Foram apresentadas os principais conceitos de Orientação a Objetos em Java:
 - Alteração das impressões do extrato.
 - Documentação das classes.
 
-### Contriubições
+### Contribuições
 #### Este repositório foi criado para fins de estudo, então fique à vontade para cloná-lo, sugerir mudanças ou correções.
 #### Todo comentário é muito bem vindo!🤝
 
